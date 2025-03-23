@@ -16,10 +16,10 @@
             <mxPoint x="360" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M9UySZspOtz7JRNBaReX-3" value="Sender&lt;div&gt;(Peer 1)&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="M9UySZspOtz7JRNBaReX-3" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Peer 1&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="80" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="M9UySZspOtz7JRNBaReX-4" value="Receiver&lt;div&gt;(Manager)&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="M9UySZspOtz7JRNBaReX-4" value="&lt;div&gt;Manager&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="80" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M9UySZspOtz7JRNBaReX-5" value="Send dht-complete,&lt;div&gt;dht-complete &amp;lt;Peer 1&amp;gt;&lt;/div&gt;&lt;div&gt;(Not leader of DHT)&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -79,7 +79,7 @@
             <mxPoint x="520" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M9UySZspOtz7JRNBaReX-18" value="Sender&lt;div&gt;(Peer&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Leader&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="M9UySZspOtz7JRNBaReX-18" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Peer&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Leader&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="80" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M9UySZspOtz7JRNBaReX-19" value="Receives and processes command" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
