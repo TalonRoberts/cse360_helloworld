@@ -6,81 +6,105 @@
         <mxCell id="1" parent="0" />
         <mxCell id="yiuJWWvVJ8G--jfIdLeI-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="680" as="sourcePoint" />
-            <mxPoint x="330" y="120" as="targetPoint" />
+            <mxPoint x="420" y="680" as="sourcePoint" />
+            <mxPoint x="420" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yiuJWWvVJ8G--jfIdLeI-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="680" as="sourcePoint" />
-            <mxPoint x="490" y="120" as="targetPoint" />
+            <mxPoint x="580" y="680" as="sourcePoint" />
+            <mxPoint x="580" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yiuJWWvVJ8G--jfIdLeI-4" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="160" as="sourcePoint" />
-            <mxPoint x="490" y="210" as="targetPoint" />
+            <mxPoint x="420" y="160" as="sourcePoint" />
+            <mxPoint x="580" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yiuJWWvVJ8G--jfIdLeI-5" value="Peer 1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="80" width="60" height="30" as="geometry" />
+          <mxGeometry x="390" y="80" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yiuJWWvVJ8G--jfIdLeI-6" value="Manager" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="80" width="60" height="30" as="geometry" />
+          <mxGeometry x="550" y="80" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yiuJWWvVJ8G--jfIdLeI-7" value="Send invalid leave-dht,&lt;div&gt;leave-dht &amp;lt;Peer 2&amp;gt;&lt;/div&gt;" style="text;strokeColor=none;align=right;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="140" width="130" height="30" as="geometry" />
+          <mxGeometry x="280" y="140" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yiuJWWvVJ8G--jfIdLeI-8" value="Receive leave-dht,&lt;div&gt;Failure condition peer is not maintaining DHT,&lt;/div&gt;&lt;div&gt;Return FAILURE&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="495" y="220" width="130" height="20" as="geometry" />
+          <mxGeometry x="585" y="220" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yiuJWWvVJ8G--jfIdLeI-10" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="240" as="sourcePoint" />
-            <mxPoint x="330" y="290" as="targetPoint" />
+            <mxPoint x="580" y="240" as="sourcePoint" />
+            <mxPoint x="420" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yiuJWWvVJ8G--jfIdLeI-11" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="410" as="sourcePoint" />
-            <mxPoint x="330" y="460" as="targetPoint" />
+            <mxPoint x="580" y="410" as="sourcePoint" />
+            <mxPoint x="420" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yiuJWWvVJ8G--jfIdLeI-12" value="rcv SUCCESS code" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="215" y="450" width="110" height="30" as="geometry" />
+          <mxGeometry x="305" y="450" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yiuJWWvVJ8G--jfIdLeI-13" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;rcv FAILURE code&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="280" width="110" height="40" as="geometry" />
+          <mxGeometry x="310" y="280" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yiuJWWvVJ8G--jfIdLeI-15" value="Send rebuild-dht..." style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="215" y="490" width="110" height="30" as="geometry" />
+        <mxCell id="yiuJWWvVJ8G--jfIdLeI-15" value="Send rebuilt-dht &amp;lt;new leader&amp;gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="610" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yiuJWWvVJ8G--jfIdLeI-16" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="510" as="sourcePoint" />
-            <mxPoint x="410" y="530" as="targetPoint" />
+            <mxPoint x="425" y="630" as="sourcePoint" />
+            <mxPoint x="505" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yiuJWWvVJ8G--jfIdLeI-21" value="Send valid leave-dht,&lt;div&gt;leave-dht &amp;lt;Peer 1&amp;gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="195" y="320" width="130" height="30" as="geometry" />
+          <mxGeometry x="285" y="320" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yiuJWWvVJ8G--jfIdLeI-22" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="340" as="sourcePoint" />
-            <mxPoint x="490" y="390" as="targetPoint" />
+            <mxPoint x="420" y="340" as="sourcePoint" />
+            <mxPoint x="580" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yiuJWWvVJ8G--jfIdLeI-23" value="Receive leave-dht,&lt;div&gt;Stores peer-name and Return SUCCESS&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="390" width="130" height="20" as="geometry" />
+          <mxGeometry x="580" y="390" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yiuJWWvVJ8G--jfIdLeI-26" value="Waiting for dht-rebuilt, rejecting all other commands" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="440" width="160" height="20" as="geometry" />
+          <mxGeometry x="580" y="440" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yiuJWWvVJ8G--jfIdLeI-27" value="..." style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="520" width="110" height="30" as="geometry" />
+          <mxGeometry x="460" y="520" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yiuJWWvVJ8G--jfIdLeI-28" value="rebuild-dht functionality in its own time-space diagram" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="375" y="560" width="100" height="30" as="geometry" />
+          <mxGeometry x="160" y="590" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yiuJWWvVJ8G--jfIdLeI-29" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="680" as="sourcePoint" />
+            <mxPoint x="260" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yiuJWWvVJ8G--jfIdLeI-30" value="Right Neighbor" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="80" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yiuJWWvVJ8G--jfIdLeI-31" value="Initiates teardown" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="480" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yiuJWWvVJ8G--jfIdLeI-32" value="Send rebuild-dht" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="520" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yiuJWWvVJ8G--jfIdLeI-33" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="yiuJWWvVJ8G--jfIdLeI-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="435" y="610" as="sourcePoint" />
+            <mxPoint x="260" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yiuJWWvVJ8G--jfIdLeI-34" value="&lt;b&gt;...&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="540" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
