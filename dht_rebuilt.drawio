@@ -61,7 +61,7 @@
             <mxPoint x="490" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9zkGaxfSVw1NgFi7duer-16" value="Receive join-dht,&lt;div&gt;Sets state of peer-name, Return SUCCESS&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9zkGaxfSVw1NgFi7duer-16" value="Receive rebuilt-dht,&lt;div&gt;Sets state of peer-name, Return SUCCESS&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="390" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
