@@ -52,13 +52,13 @@
         <mxCell id="NaqRkLUhvYSYSI6wDeAA-11" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;rcv FAILURE code&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="280" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NaqRkLUhvYSYSI6wDeAA-12" value="Send rebuild-dht &amp;lt;new-leader&amp;gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="490" width="175" height="30" as="geometry" />
+        <mxCell id="NaqRkLUhvYSYSI6wDeAA-12" value="Send rebuilt-dht &amp;lt;new-leader&amp;gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="590" width="175" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NaqRkLUhvYSYSI6wDeAA-13" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="510" as="sourcePoint" />
-            <mxPoint x="410" y="530" as="targetPoint" />
+            <mxPoint x="330" y="610" as="sourcePoint" />
+            <mxPoint x="410" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NaqRkLUhvYSYSI6wDeAA-14" value="Send valid join-dht,&lt;div&gt;join-dht &amp;lt;Peer 1&amp;gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -76,11 +76,11 @@
         <mxCell id="NaqRkLUhvYSYSI6wDeAA-17" value="Waiting for dht-rebuilt, rejecting all other commands" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="440" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="NaqRkLUhvYSYSI6wDeAA-18" value="..." style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="520" width="110" height="30" as="geometry" />
+        <mxCell id="NaqRkLUhvYSYSI6wDeAA-18" value="&lt;b&gt;...&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="257.5" y="480" width="35" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NaqRkLUhvYSYSI6wDeAA-19" value="rebuild-dht functionality in its own time-space diagram" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="375" y="560" width="100" height="30" as="geometry" />
+          <mxGeometry x="225" y="530" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
