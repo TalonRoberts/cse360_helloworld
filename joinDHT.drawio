@@ -53,12 +53,12 @@
           <mxGeometry x="220" y="280" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NaqRkLUhvYSYSI6wDeAA-12" value="Send rebuilt-dht &amp;lt;new-leader&amp;gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="590" width="175" height="30" as="geometry" />
+          <mxGeometry x="150" y="500" width="175" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NaqRkLUhvYSYSI6wDeAA-13" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="610" as="sourcePoint" />
-            <mxPoint x="410" y="630" as="targetPoint" />
+            <mxPoint x="330" y="520" as="sourcePoint" />
+            <mxPoint x="410" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NaqRkLUhvYSYSI6wDeAA-14" value="Send valid join-dht,&lt;div&gt;join-dht &amp;lt;Peer 1&amp;gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -77,10 +77,10 @@
           <mxGeometry x="490" y="440" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NaqRkLUhvYSYSI6wDeAA-18" value="&lt;b&gt;...&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="257.5" y="480" width="35" height="30" as="geometry" />
+          <mxGeometry x="420" y="535" width="35" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NaqRkLUhvYSYSI6wDeAA-19" value="rebuild-dht functionality in its own time-space diagram" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="225" y="530" width="100" height="30" as="geometry" />
+        <mxCell id="NaqRkLUhvYSYSI6wDeAA-19" value="rebuilt-dht functionality in its own time-space diagram" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="387.5" y="580" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
